@@ -1,8 +1,10 @@
-Bonjour, je suis Aurélie Dumotier 
+Bonjour, je suis Aurélie Dumotier / Hello, I’m Aurélie Dumotier
 
-Développeuse web junior en reconversion après 12 ans d’expérience en pilotage opérationnel et management d’équipe au sein d’une Direction Client.
+  ##  Version Française
 
-J'aime à concevoir des applications web fiables, claires et centrées sur l’utilisateur, en combinant rigueur professionnelle, sens de l’organisation et compétences techniques.
+Développeuse web créative et organisée, spécialisée dans la conception d’applications intuitives et esthétiques, avec un parcours riche en management et pilotage opérationnel.
+
+J'aime concevoir des applications web fiables, claires et centrées sur l’utilisateur, en combinant rigueur professionnelle, sens de l’organisation et compétences techniques.
 
 🚀 Compétences techniques
 
@@ -40,8 +42,57 @@ Je recherche un poste de Développeuse Web junior en CDI ou CDD, au sein d’une
 
 📫 Me contacter
 
-LinkedIn : Aurélie Dumotier
+LinkedIn : www.linkedin.com/in/aurélie-dumotier78290
 
 GitHub : ce profil 🙂
 
 Merci pour votre visite !
+
+
+
+  ##  English Version
+
+Creative and organized web developer, specialized in designing intuitive and visually appealing applications, with a strong background in team management and operational leadership.
+
+I enjoy creating web applications that are reliable, clear, and user-centered, combining professional rigor, organizational skills, and technical expertise.
+
+🚀 Technical Skills
+
+Tech & Languages
+HTML · CSS · JavaScript · React · Node.js · Express · SQL (MySQL)
+
+Development Tools
+GitHub · Jira · Trello · Figma
+
+Cross-functional Tools
+Canva · Microsoft Office Suite · Salesforce · Power BI
+
+Methods
+Agile · Project Management · Technical Documentation & Knowledge Transfer
+
+📂 Projects
+
+🔹 The Move Up – Sports Application
+Front-end web application built with React, focused on user experience and responsive design.
+Technologies: React · JavaScript · HTML · CSS · Express API
+
+🔹 The Wild Brick – LEGO Universe Site
+Showcase website emphasizing UX/UI, accessibility, and responsive optimization.
+Technologies: HTML · CSS · JavaScript
+
+🔹 L’Écrin du Temps – Luxury Watch Shop
+Front-end e-commerce project focusing on ergonomics, product presentation, and design.
+Technologies: HTML · CSS · JavaScript · Express API · React · SQL
+
+(Repositories are available on my GitHub profile.)
+
+🎯 Career Goal
+
+I am looking for a web developer position (full-time or contract) within a collaborative team, where I can continue to grow technically while bringing strong organizational and human value.
+
+📫 Contact Me
+
+LinkedIn: www.linkedin.com/in/aurélie-dumotier78290
+GitHub: this profile 🙂
+
+Thank you for visiting!
