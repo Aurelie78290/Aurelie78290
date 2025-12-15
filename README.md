@@ -72,15 +72,17 @@ Canva · Microsoft Office Suite · Salesforce · Power BI
 Methods
 Agile · Project Management · Technical Documentation & Knowledge Transfer
 
-📂 Projects
+📂 Collaborative projects (with the Wild Code School)
 
 🔹 The Move Up – Sports Application
 Front-end web application built with React, focused on user experience and responsive design.
 Technologies: React · JavaScript · HTML · CSS · Express API
+Lien Github : https://github.com/ChickenCodeSchool/Js-Crew809-TeamRocket-P2-G2-moveup
 
 🔹 The Wild Brick – LEGO Universe Site
 Showcase website emphasizing UX/UI, accessibility, and responsive optimization.
 Technologies: HTML · CSS · JavaScript
+Lien Github : https://github.com/Sofian-Abdelli/The-Wild-Brick
 
 🔹 L’Écrin du Temps – Luxury Watch Shop
 Front-end e-commerce project focusing on ergonomics, product presentation, and design.
