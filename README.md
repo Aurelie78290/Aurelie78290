@@ -23,7 +23,7 @@ Agile · Gestion de projet · Documentation technique & transmission
 📂 Projets collaboratifs (réalisés avec la Wild Code School)
 
 🔹 The Move Up – Application sportive 
-Application web front-end développée avec React, orientée expérience utilisateur et design responsive.
+Application web développée avec React, consommant une API Express, orientée expérience utilisateur et design responsive.
 Technologies : React · JavaScript · HTML · CSS . Express API
 Lien Github : https://github.com/ChickenCodeSchool/Js-Crew809-TeamRocket-P2-G2-moveup
 
@@ -75,7 +75,7 @@ Agile · Project Management · Technical Documentation & Knowledge Transfer
 📂 Collaborative projects (with the Wild Code School)
 
 🔹 The Move Up – Sports Application
-Front-end web application built with React, focused on user experience and responsive design.
+Web application developed with React, consuming an Express API, oriented towards user experience and responsive design.
 Technologies: React · JavaScript · HTML · CSS · Express API
 Lien Github : https://github.com/ChickenCodeSchool/Js-Crew809-TeamRocket-P2-G2-moveup
 
