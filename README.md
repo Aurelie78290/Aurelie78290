@@ -35,8 +35,8 @@ Lien Github : https://github.com/Sofian-Abdelli/The-Wild-Brick
 🔹 L’Écrin du Temps – Boutique de montres de luxe
 Projet e-commerce front-end avec travail sur l’ergonomie, la mise en valeur produit et le design.
 Technologies : HTML · CSS · JavaScript . Express API . React . SQL
+Lien Github : https://github.com/ChickenCodeSchool/Js-Crew809-TeamRocket-P3-G1-lecrindutemps
 
-(Les dépôts sont disponibles sur mon profil GitHub.)
 
 🎯 Objectif professionnel
 
@@ -87,8 +87,8 @@ Lien Github : https://github.com/Sofian-Abdelli/The-Wild-Brick
 🔹 L’Écrin du Temps – Luxury Watch Shop
 Front-end e-commerce project focusing on ergonomics, product presentation, and design.
 Technologies: HTML · CSS · JavaScript · Express API · React · SQL
+Lien Github : https://github.com/ChickenCodeSchool/Js-Crew809-TeamRocket-P3-G1-lecrindutemps
 
-(Repositories are available on my GitHub profile.)
 
 🎯 Career Goal
 
